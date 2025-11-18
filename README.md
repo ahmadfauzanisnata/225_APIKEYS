@@ -1,6 +1,7 @@
 TAMPILAN HALAMAN UTAMA
 <img width="1691" height="937" alt="image" src="https://github.com/user-attachments/assets/3997083f-275d-435f-aea5-330f8d49e0db" />
-<img width="1665" height="915" alt="image" src="https://github.com/user-attachments/assets/82aa8d30-5f44-4df9-bc2b-af82fb67ea25" />
+<img width="1682" height="708" alt="image" src="https://github.com/user-attachments/assets/6f955bc5-9c7a-4783-9c01-4d417fb5b951" />
+
 
 TAMPILAN LOGIN ADMIN
 <img width="999" height="844" alt="image" src="https://github.com/user-attachments/assets/1eb7169c-3fce-43fc-a00c-fc896dd11c3f" />
